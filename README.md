@@ -4,13 +4,13 @@
 
 ## 👩‍💻  About Me
 
-Real name is Alexander, am 18 and from Sweden.
+> Real name is Alexander | 18 | Sweden
 
-I'm a passionate developer who loves Golang and elegant & efficient code.
+> Passionate Developer | Golang Enthusiast
 
-I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.
+> I'm a self-taught programmer with a knack for crafting elegant and efficient Golang solutions. My journey began at 12, fueled by a relentless curiosity and a desire to make something meaningful.
 
-I'm currently and student and unemployed though I do currently have a freelancing project going on
+> Currently navigating the student life, I'm actively seeking opportunities to hone my skills and contribute to exciting projects. In the meantime, I'm flexing my freelance muscles and diving deep into the world of Golang.
 
 ## 🧠 Skills & Interests
 
@@ -124,11 +124,13 @@ Feel free to reach out for collaborations or discussions on anything
 
 - 📧 Email: capn@capnroot.dev
 
-## 🌐 Other Socials
+## 🌐 Socials
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  <img src="https://github.com/dailydotdev/daily/blob/master/assets/App%20Icon%20-%20White.png?raw=true" width="52" height="40" alt="daily.dev logo"  />
+  <img src="https://github.com/dailydotdev/daily/blob/master/assets/App%20Icon%20-%20White.png?raw=true" width="42" height="42" alt="daily.dev logo"  />
 </div>
+
+> Usernames on platforms CaptainFallaway, TheFallaway, capnroot
