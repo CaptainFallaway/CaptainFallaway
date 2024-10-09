@@ -2,13 +2,13 @@
 
 ## 👩‍💻 About Me
 
-> Real name is Alexander | 18 | Sweden
+> *Real name is Alexander | 18 | Sweden*
 
-> Passionate Developer | Golang Enthusiast
+> *Passionate Developer | Golang Enthusiast*
 
-> I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.
+> *I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.*
 
-> Currently navigating the student life, I'm actively seeking opportunities to hone my skills and contribute to exciting projects. In the meantime, I'm flexing my freelance muscles and diving deep into the world of Golang.
+> *Currently navigating the student life, I'm actively seeking opportunities to hone my skills and contribute to exciting projects. In the meantime, I'm flexing my freelance muscles and diving deep into the world of Golang.*
 
 ## 🧠 Skills & Interests
 
@@ -120,7 +120,7 @@ var interests = []string{
 
 Feel free to reach out for collaborations or discussions on anything
 
-- 📧 Email: capn@capnroot.dev
+- 📧 **Email**: capn@capnroot.dev
 
 ## 🌐 Socials
 
@@ -134,4 +134,4 @@ Feel free to reach out for collaborations or discussions on anything
 
 ###
 
-> Usernames I go by on different platforms; CaptainFallaway, TheFallaway, capnroot
+> Usernames I go by on different platforms; **CaptainFallaway**, **TheFallaway**, **capnroot**
