@@ -1,8 +1,6 @@
-<br clear="both">
+# Hello, World! 👋 I'm CaptainFallaway
 
-<h1 align="center">Hello, World! 👋 I'm CaptainFallaway</h1>
-
-## 👩‍💻  About Me
+## 👩‍💻 About Me
 
 > Real name is Alexander | 18 | Sweden
 
