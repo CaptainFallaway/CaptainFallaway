@@ -25,7 +25,7 @@ var interests = []string{
 }
 ```
 
-## 🛠 Languages
+## 💻 Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
