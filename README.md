@@ -2,19 +2,17 @@
 
 <h1 align="center">Hello, World! 👋 I'm CaptainFallaway</h1>
 
-###
+## 👩‍💻  About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+Real name is Alexander, am 18 and from Sweden.
 
-###
+I'm a passionate developer who loves Golang and elegant & efficient code.
 
-<p align="left">Name is Alexander, am 18 and from Sweden.<br><br>I'm a passionate developer who loves Golang and elegant & efficient code.<br><br>I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.<br><br>I'm currently and student and unemployed though I do currently have a freelancing project going on.</p>
+I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.
 
-###
+I'm currently and student and unemployed though I do currently have a freelancing project going on
 
-<h3 align="left">🧠 Skills & Interests</h3>
-
-###
+## 🧠 Skills & Interests
 
 ```go
 var interests = []string{
@@ -27,11 +25,7 @@ var interests = []string{
 }
 ```
 
-###
-
-<h3 align="left">🛠 Languages</h3>
-
-###
+## 🛠 Languages
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -51,11 +45,7 @@ var interests = []string{
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<h3 align="left">🛠 Frameworks, tools & other icons</h3>
-
-###
+## 🛠 Frameworks, tools & other icons
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
@@ -121,19 +111,24 @@ var interests = []string{
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🔥 My Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=captainfallaway&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=captainfallaway&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🤝 Let's Connect
 
-<h3 align="left">🤝 Let's Connect</h3>
+Feel free to reach out for collaborations or discussions on anything
 
-###
+- 📧 Email: capn@capnroot.dev
+
+## 🌐 Other Socials
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <img src="https://github.com/dailydotdev/daily/blob/master/assets/App%20Icon%20-%20White.png?raw=true" width="52" height="40" alt="daily.dev logo"  />
+</div>
