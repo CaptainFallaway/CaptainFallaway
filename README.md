@@ -6,7 +6,7 @@
 
 > Passionate Developer | Golang Enthusiast
 
-> I'm a self-taught programmer with a knack for crafting elegant and efficient Golang solutions. My journey began at 12, fueled by a relentless curiosity and a desire to make something meaningful.
+> I taught myself how to program in Python when I was 12 years old since I wanted to find something productive to do and programming hit the spot since I've always been curious, inquisitive, and omnivorous.
 
 > Currently navigating the student life, I'm actively seeking opportunities to hone my skills and contribute to exciting projects. In the meantime, I'm flexing my freelance muscles and diving deep into the world of Golang.
 
