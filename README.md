@@ -36,6 +36,8 @@ var interests = []string{
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
+  <img src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png" height="40" alt="lua logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
