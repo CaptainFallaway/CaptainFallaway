@@ -1,5 +1,9 @@
 # Hello, World! 👋 I'm CaptainFallaway
 
+<div align="center">
+<img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" />
+</div>
+
 ## 👩‍💻 About Me
 
 > *Real name is Alexander | 18 | Sweden*
