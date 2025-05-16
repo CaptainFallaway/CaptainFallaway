@@ -70,6 +70,8 @@ var interests = []string{
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" height="40" alt="traefikproxy logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
@@ -100,6 +102,10 @@ var interests = []string{
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/wails/DF0000" height="40" alt="preact logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/preact/673AB8" height="40" alt="preact logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
@@ -127,6 +133,8 @@ var interests = []string{
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/daily.dev/FFFFFF" height="40" alt="daily.dev logo"  />
 </div>
 
 ## 🔥 My Stats
